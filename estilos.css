@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(53, 55, 56);
+}
+
+h1 {
+            color: #f5c400;
+            font-size: clamp(2rem, 5vw, 4rem);
+            letter-spacing: 4px;
+            text-transform: uppercase;
+            text-shadow: 3px 3px 0 #000;
+        }
